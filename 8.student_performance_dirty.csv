@@ -1,0 +1,13 @@
+StudentID,Gender,Age,StudyHours,Attendance,Marks,Grade,Pass
+1,Male,20,2,80,65,B,Yes
+2,Female,21,4,90,85,A,Yes
+3,Male,19,3,75,58,C,Yes
+4,Female,22,5,95,92,A,Yes
+5,Male,,1,60,40,D,No
+6,Female,20,2,82,,B,Yes
+7,Male,21,6,98,96,A,Yes
+8,Female,19,3,78,68,B,Yes
+9,Male,20,2,70,55,C,Yes
+10,Female,22,4,88,82,A,Yes
+10,Female,22,4,88,82,A,Yes
+11,Male,21,8,100,150,A,Yes
