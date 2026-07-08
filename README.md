@@ -1,2 +1,2 @@
 # Data-Visualization-with-Matplotlib-and-Seaborn
-A collection of data visualization examples and exploratory data analysis (EDA) using Matplotlib and Seaborn. This repository demonstrates various plots, charts, and visualization techniques to analyze and interpret datasets effectively.
+This repository showcases Python-based data analysis and preprocessing using Pandas. It includes data cleaning, handling missing values and duplicates, exploratory data analysis (EDA), data transformation, and extracting meaningful insights from real-world datasets using Jupyter Notebook.
